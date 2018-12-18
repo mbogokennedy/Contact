@@ -1,11 +1,11 @@
 // Initialize Firebase
 var config = {
-  apiKey: "AIzaSyBirmO17HD1FY4VxMWT4qnLFBuqlAOz2ko",
-  authDomain: "cleanerwebs-3a394.firebaseapp.com",
-  databaseURL: "https://cleanerwebs-3a394.firebaseio.com",
-  projectId: "cleanerwebs-3a394",
-  storageBucket: "cleanerwebs-3a394.appspot.com",
-  messagingSenderId: "680908881758"
+  apiKey: "XXXXXXXXXXXX",  //put your own credentials
+  authDomain: "xxxxxxxxxx",
+  databaseURL: "XXXXXXXXXXX",
+  projectId: "XXXXXXXXXXXX",
+  storageBucket: "XXXXXXXXXXXX",
+  messagingSenderId: "XXXXXXXXXXX"
 };
 firebase.initializeApp(config);
 // Reference messages collection
